@@ -1,0 +1,10 @@
+Dia 15/02/2022
+
+Node JS
+
+- Rápido 
+- ALta escalabilidade
+- Ecosistema gigante
+- Grandes empresas usam - Netflix, linkedin, Nasa, Paypal ...
+
+Node = JS Runtime Enviroment = JavaScript em ambiente de execução (Um ambiente exclusivo do node para rodar JS)

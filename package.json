@@ -1,0 +1,17 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "console.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "opn": "^6.0.0",
+    "cfonts": "^2.10.0"
+  }
+  
+}
